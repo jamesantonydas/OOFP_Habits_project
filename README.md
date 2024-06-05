@@ -9,6 +9,12 @@ You can install the latest version of python from python's official website.
 
 ### Downloading the application
 
+You can download the application files from repository, or create a new folder and simply run the command,
+
+```
+git clone https://github.com/jamesantonydas/OOFP_Habits_project
+```
+
 ### Installing the dependencies
 
 After downloading the application, simply run the following command to install all the dependencies.
