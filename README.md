@@ -1,0 +1,47 @@
+# Habit Tracker Application
+ (Under Development Phase)
+This page will be updated along with proper documentation.
+
+## Installation
+
+This project needs the python runtime installed in your system. 
+You can install the latest version of python from python's official website.
+
+### Downloading the application
+
+### Installing the dependencies
+
+After downloading the application, simply run the following command to install all the dependencies.
+
+```
+pip install -r requirements.txt
+```
+
+The application requires following dependencies,
+
+1. Questionary - For commandline interface
+2. Tabulate - For tabulating the data
+3. Sqlite3 - For storing the database
+4. Pytest - For unit testing the program
+5. Freezegun - For freezing the time during unit-tests
+### Running the program
+
+To run the program, simply run,
+```commandline
+python main.py
+```
+
+### Running the tests
+
+For running the unit-tests, simply run
+
+```commandline
+python -m pytest .
+```
+
+## Features
+The features include,
+1. Adding habits
+2. Setting habit periodicity
+3. Tracking the habits with analytics
+4. Viewing / Editing the tasks
