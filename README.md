@@ -47,7 +47,7 @@ python -m pytest .
 
 ##UML Class diagram
 
-<p align="center" width="50%">
+<p align="center" height="25%">
   <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/OOFP%20class%20diagram.png" />
 </p>
 
