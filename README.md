@@ -2,7 +2,9 @@
  (Under Development Phase)
 This page will be updated along with proper documentation.
 
-## Installation
+The Habit Tracker Application helps users build and track their habits. With habit tracker app, users can add habit (for example, take a walk everyday) and define their habit periodicities (daily, weekly, monthly and yearly). Users can check-off, or mark them completed every day or week, depending on the periodicity. Habit tracker gives them further analytics and insights into their habits.
+
+## Getting Started
 
 This project needs the python runtime installed in your system. 
 You can install the latest version of python from python's official website.
