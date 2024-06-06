@@ -45,9 +45,9 @@ For running the unit-tests, simply run
 python -m pytest .
 ```
 
-##UML Class diagram
+## UML Class diagram
 
-<p align="center" height="25%">
+<p align="center" width="10%">
   <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/OOFP%20class%20diagram.png" />
 </p>
 
