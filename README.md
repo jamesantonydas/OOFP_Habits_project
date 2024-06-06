@@ -4,10 +4,6 @@ This page will be updated along with proper documentation.
 
 The Habit Tracker Application helps users build and track their habits. With habit tracker app, users can add habit (for example, take a walk everyday) and define their habit periodicities (daily, weekly, monthly and yearly). Users can check-off, or mark them completed every day or week, depending on the periodicity. Habit tracker gives them further analytics and insights into their habits.
 
-<p align="center" width="10%">
-  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/main_menu.png" />
-</p>
-
 The Habit Tracker offers a simple and easy to use interface for habit building. 
 
 ## Getting Started
@@ -68,3 +64,8 @@ With HabitTracker The users can,
 2. Set the habit periodicity
 3. Tracking the habits with analytics
 4. View / Edit the tasks
+
+
+<p align="center" width="40">
+  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/main_menu.png" />
+</p>
