@@ -45,9 +45,18 @@ For running the unit-tests, simply run
 python -m pytest .
 ```
 
+##UML Class diagram
+
+<p align="center" width="50%">
+  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/OOFP%20class%20diagram.png" />
+</p>
+
+
+
 ## Features
-The features include,
-1. Adding habits
-2. Setting habit periodicity
+
+With HabitTracker The users can,
+1. Add habits
+2. Set the habit periodicity
 3. Tracking the habits with analytics
-4. Viewing / Editing the tasks
+4. View / Edit the tasks
