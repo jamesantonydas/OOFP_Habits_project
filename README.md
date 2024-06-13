@@ -36,6 +36,7 @@ The application requires following dependencies,
 3. Sqlite3 - For storing the database
 4. Pytest - For unit testing the program
 5. Freezegun - For freezing the time during unit-tests
+
 ### Running the program
 
 To run the program, simply run,
@@ -77,7 +78,13 @@ The habit tracker app gives you all the necessary information so that you can tr
 
 ### Viewing / Editing the tasks
 
-You can rename the task, change periodicity, reset, or delete the tasks, all at one place. no hazzle.
+You can rename the task, change periodicity, reset, or delete the tasks, all at one place. no hassle.
+
+
+### Documentation
+
+You can use the Habit and HabitManager class to further develop and expand the app with graphical user interface.
+Explore the documentation to learn more about the attributes and methods.
 
 
 ## UML Class diagram
