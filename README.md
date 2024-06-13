@@ -76,6 +76,10 @@ You can rename the task, change periodicity, reset, or delete the tasks, all at 
 
 You can check-off multiple habits, all at one go!
 
+<p align="center" width="40">
+  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/ui2.png"/>
+</p>
+
 
 ### Tracking the habits with analytics
 
