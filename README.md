@@ -85,9 +85,9 @@ You can check-off multiple habits, all at one go!
 
 The habit tracker app gives you all the necessary information so that you can track all them all at one place!
 
-
-
-
+<p align="center" width="40">
+  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/ui3.png"/>
+</p>
 
 
 ### Documentation
