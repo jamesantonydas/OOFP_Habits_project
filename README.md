@@ -90,7 +90,6 @@ The habit tracker app gives you all the necessary information so that you can tr
 ### Documentation
 
 You can use the Habit and HabitManager class to further develop and expand the app with graphical user interface.
-Explore the documentation to learn more about the attributes and methods.
 
 
 ## UML Class diagram
@@ -98,4 +97,6 @@ Explore the documentation to learn more about the attributes and methods.
 <p align="center" width="10%">
   <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/OOFP%20class%20diagram.png" width="40%"/>
 </p>
+
+Explore the documentation to learn more about the attributes and methods.
 
