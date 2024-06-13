@@ -56,15 +56,21 @@ python -m pytest .
 
 With HabitTracker The users can,
 1. Add habits
-2. Set the habit periodicity
-3. Tracking the habits with analytics
+2. Tracking the habits with analytics
+3. Set the habit periodicity
 4. View / Edit the tasks
-
 
 ### Adding habits
 
 You can simply add new habits, define periodicity and start tracking! right away!
 
+### Viewing / Editing the tasks
+
+You can rename the task, change periodicity, reset, or delete the tasks, all at one place. no hassle.
+
+<p align="center" width="40">
+  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/ui1.png"/>
+</p>
 
 ### Checking-off multiple tasks at once!
 
@@ -76,9 +82,8 @@ You can check-off multiple habits, all at one go!
 The habit tracker app gives you all the necessary information so that you can track all them all at one place!
 
 
-### Viewing / Editing the tasks
 
-You can rename the task, change periodicity, reset, or delete the tasks, all at one place. no hassle.
+
 
 
 ### Documentation
