@@ -51,14 +51,6 @@ For running the unit-tests, simply run
 python -m pytest .
 ```
 
-## UML Class diagram
-
-<p align="center" width="10%">
-  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/OOFP%20class%20diagram.png" width="40%"/>
-</p>
-
-
-
 ## Features
 
 With HabitTracker The users can,
@@ -67,4 +59,30 @@ With HabitTracker The users can,
 3. Tracking the habits with analytics
 4. View / Edit the tasks
 
+
+### Adding habits
+
+You can simply add new habits, define periodicity and start tracking! right away!
+
+
+### Checking-off multiple tasks at once!
+
+You can check-off multiple habits, all at one go!
+
+
+### Tracking the habits with analytics
+
+The habit tracker app gives you all the necessary information so that you can track all them all at one place!
+
+
+### Viewing / Editing the tasks
+
+You can rename the task, change periodicity, reset, or delete the tasks, all at one place. no hazzle.
+
+
+## UML Class diagram
+
+<p align="center" width="10%">
+  <img src="https://github.com/jamesantonydas/OOFP_Habits_project/blob/main/docs/img/OOFP%20class%20diagram.png" width="40%"/>
+</p>
 
